@@ -1,3 +1,4 @@
+#Anderson e Felipe
 class Registro:
     def __init__(self, nome, idade, endereço):
         self.nome = nome
